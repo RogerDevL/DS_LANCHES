@@ -48,7 +48,7 @@ Para configurar e executar o projeto localmente, siga estas etapas:
    cd Backend
    npm install
 
-   Após baixar o Back end, vc deve entrar na pasta Front end e rodar este comando abaixo:
+   Após baixar o Back end, inicie o terminal e deve entrar na pasta Front end e rodar este comando abaixo:
    npm install
    ```
 3. Inicie o terminal na pasta do projeto, e rode os comandos para iniciar o Back-end e front end.
